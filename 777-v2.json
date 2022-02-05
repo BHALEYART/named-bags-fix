@@ -1,0 +1,42 @@
+{
+  "name": "SCUMBAG$ #777",
+  "symbol": "SCUMBAGS",
+  "description": "A generative collection of 3,000 Unique Money Bag Characters",
+  "seller_fee_basis_points": 1000,
+  "image": "https://raw.githubusercontent.com/BHALEYART/named-bags-fix/main/SCUM%20KING%20V2.png",
+  "external_url": "http://scumbags.io/",
+  "edition": 777,
+  "attributes": [
+    {
+      "trait_type": "Named Scum",
+      "value": "King Scum"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BHALEYART/named-bags-fix/main/SCUM%20KING%20V2.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4ejehx7PJVYpLcfivsshBTYsnvr1ni9TPHZGcCkRKBQb",
+        "share": 65
+      },
+      {
+        "address": "9j3pc3gtBDFc8nNPNHjKrVfVewfxbrFm4doVwFoVP5Bu",
+        "share": 25
+      },
+      {
+        "address": "HN2VxERebRDfAL8S8WCHW96mfNY6XpTvbqDiuLpckmLm",
+        "share": 5
+      },
+      {
+        "address": "2L5XkJdPfhsetVCvdSuxrS9bW73fAbBrsNJuTJxA75C3",
+        "share": 5
+      }
+    ]
+  }
+}
