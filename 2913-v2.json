@@ -3,7 +3,7 @@
   "symbol": "SCUMBAGS",
   "description": "A generative collection of 3,000 Unique Money Bag Characters",
   "seller_fee_basis_points": 1000,
-  "image": "https://raw.githubusercontent.com/BHALEYART/named-bags-fix/main/The%20Mad%20King.png",
+  "image": "https://raw.githubusercontent.com/BHALEYART/named-bags-fix/main/The%20Mad%20King%20V2%20update.png",
   "external_url": "http://scumbags.io/",
   "edition": 2913,
   "attributes": [
@@ -15,7 +15,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/BHALEYART/named-bags-fix/main/The%20Mad%20King.png",
+        "uri": "https://raw.githubusercontent.com/BHALEYART/named-bags-fix/main/The%20Mad%20King%20V2%20update.png",
         "type": "image/png"
       }
     ],
