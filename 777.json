@@ -3,7 +3,7 @@
   "symbol": "SCUMBAGS",
   "description": "A generative collection of 3,000 Unique Money Bag Characters",
   "seller_fee_basis_points": 1000,
-  "image": "https://raw.githubusercontent.com/BHALEYART/named-bags-fix/main/SCUM%20KING%20V2.png",
+  "image": "https://raw.githubusercontent.com/BHALEYART/named-bags-fix/main/king-scum.png",
   "external_url": "http://scumbags.io/",
   "edition": 777,
   "attributes": [
@@ -19,7 +19,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/BHALEYART/named-bags-fix/main/SCUM%20KING%20V2.png",
+        "uri": "https://raw.githubusercontent.com/BHALEYART/named-bags-fix/main/king-scum.png",
         "type": "image/png"
       }
     ],
